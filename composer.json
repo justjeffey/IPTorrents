@@ -1,0 +1,7 @@
+{
+    "name": "somecommoner/torrentscraper",
+    "description": "Scrape IPTorrents.",
+    "require": {
+        "php": ">=7.4"
+    }
+}
